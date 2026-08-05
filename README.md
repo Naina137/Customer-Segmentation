@@ -33,7 +33,7 @@ A Machine Learning project that uses the **K-Means Clustering Algorithm** to seg
 
 ## Live Demo
 
-🔗 https://customer-segmentation-uycmqcbujyqm4vxjmxkfi2.streamlit.app
+ https://customer-segmentation-uycmqcbujyqm4vxjmxkfi2.streamlit.app
 
 ---
 ##  Project Objectives
@@ -49,14 +49,14 @@ A Machine Learning project that uses the **K-Means Clustering Algorithm** to seg
 
 ## Features
 
-- 📊 Customer Dataset Preview
-- 📈 Dataset Information
-- 📉 Annual Income Distribution
-- 💰 Spending Score Analysis
-- 🔥 Correlation Heatmap
-- 📍 Elbow Method for Optimal Clusters
-- 🎯 K-Means Cluster Visualization
-- 🌐 Streamlit Web Application
+-  Customer Dataset Preview
+-  Dataset Information
+-  Annual Income Distribution
+-  Spending Score Analysis
+-  Correlation Heatmap
+-  Elbow Method for Optimal Clusters
+-  K-Means Cluster Visualization
+- Streamlit Web Application
 
 ---
 
@@ -78,7 +78,7 @@ Mall Customers Dataset
 
 ---
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ###  Home Page
 ![Home](home.png)
