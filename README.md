@@ -20,7 +20,7 @@ Customer-Segmentation/
 ├── spending.png
 ├── heatmap.png
 ├── elbow_method.png
-├── customer_segmentation_k_mean.png
+├── customer_segmentation.png
 ```
 
 ---
@@ -122,7 +122,7 @@ streamlit run notebook/app.py
 
 # Connect with the Author
 
-**Naina Gupta**
+**Naina Kumari**
 
 - GitHub: https://github.com/Naina137
 - LinkedIn: https://www.linkedin.com/in/naina-kumari-06373132b
