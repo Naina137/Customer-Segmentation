@@ -1,4 +1,4 @@
-# 📂 Project Architecture
+#  Project Architecture
 
 ```text
 Customer-Segmentation/
@@ -25,19 +25,29 @@ Customer-Segmentation/
 
 ---
 
-# 🚀 Customer Segmentation using K-Means
+# Customer Segmentation using K-Means
 
 A Machine Learning project that uses the **K-Means Clustering Algorithm** to segment customers based on their purchasing behavior using **Age**, **Annual Income**, and **Spending Score**. The project is deployed using **Streamlit** for an interactive web application.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 🔗 https://customer-segmentation-uycmqcbujyqm4vxjmxkfi2.streamlit.app
 
 ---
+##  Project Objectives
 
-## ✨ Features
+- Analyze customer purchasing behavior.
+- Perform data preprocessing and exploration.
+- Determine the optimal number of clusters using the Elbow Method.
+- Segment customers using K-Means Clustering.
+- Visualize customer groups with interactive plots.
+- Deploy the project using Streamlit Cloud.
+
+---
+
+## Features
 
 - 📊 Customer Dataset Preview
 - 📈 Dataset Information
@@ -50,7 +60,7 @@ A Machine Learning project that uses the **K-Means Clustering Algorithm** to seg
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -62,7 +72,7 @@ A Machine Learning project that uses the **K-Means Clustering Algorithm** to seg
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Mall Customers Dataset
 
@@ -70,27 +80,36 @@ Mall Customers Dataset
 
 ## 📸 Project Screenshots
 
-### 🏠 Home Page
+###  Home Page
 ![Home](home.png)
 
-### 📊 Annual Income Distribution
+###  Annual Income Distribution
 ![Histogram](histogram.png)
 
-### 💰 Spending Score Analysis
+###  Spending Score Analysis
 ![Spending Score](spending.png)
 
-### 🔥 Correlation Heatmap
+###  Correlation Heatmap
 ![Heatmap](heatmap.png)
 
-### 📍 Elbow Method
+###  Elbow Method
 ![Elbow](elbow_method.png)
 
-### 🎯 Customer Segmentation
+###  Customer Segmentation
 ![Customer Segmentation](customer_segmentation.png)
 
 ---
+# Results
 
-## ▶️ Run Locally
+- Successfully identified customer groups using K-Means.
+- Determined the optimal number of clusters with the Elbow Method.
+- Visualized customer segments using scatter plots.
+- Built and deployed a Streamlit web application.
+
+---
+
+
+# Run Locally
 
 ```bash
 git clone https://github.com/Naina137/Customer-Segmentation.git
@@ -101,12 +120,12 @@ streamlit run notebook/app.py
 
 ---
 
-## 👩‍💻 Connect with the Author
+# Connect with the Author
 
 **Naina Gupta**
 
-- 🔗 GitHub: https://github.com/Naina137
-- 💼 LinkedIn: https://www.linkedin.com/in/naina-kumari-06373132b
+- GitHub: https://github.com/Naina137
+- LinkedIn: https://www.linkedin.com/in/naina-kumari-06373132b
 
 ---
 
