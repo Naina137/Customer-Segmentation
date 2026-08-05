@@ -86,7 +86,7 @@ Mall Customers Dataset
 ![Elbow](elbow_method.png)
 
 ### 🎯 Customer Segmentation
-![Customer Segmentation](customer_segmentation_k_mean.png)
+![Customer Segmentation](customer_segmentation.png)
 
 ---
 
